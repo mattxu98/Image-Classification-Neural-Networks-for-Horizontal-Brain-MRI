@@ -1,0 +1,469 @@
+2023-11-04 10:55:42,037 - Epoch [1/300], Training Loss: 0.7518
+2023-11-04 10:55:44,106 - Epoch [1/300], Validation Loss: 1.2461
+                         Recall: 0.9867, Precision: 0.5531, F1 Score: 0.7088, Accuracy: 0.5933
+2023-11-04 10:55:53,008 - Epoch [2/300], Training Loss: 0.5110
+2023-11-04 10:55:54,941 - Epoch [2/300], Validation Loss: 0.4811
+                         Recall: 0.5880, Precision: 0.9219, F1 Score: 0.7181, Accuracy: 0.7683
+2023-11-04 10:56:03,651 - Epoch [3/300], Training Loss: 0.4547
+2023-11-04 10:56:05,578 - Epoch [3/300], Validation Loss: 0.8594
+                         Recall: 0.3488, Precision: 0.9459, F1 Score: 0.5097, Accuracy: 0.6633
+2023-11-04 10:56:13,846 - Epoch [4/300], Training Loss: 0.3631
+2023-11-04 10:56:15,742 - Epoch [4/300], Validation Loss: 0.5199
+                         Recall: 0.8538, Precision: 0.7981, F1 Score: 0.8250, Accuracy: 0.8183
+2023-11-04 10:56:23,794 - Epoch [5/300], Training Loss: 0.3180
+2023-11-04 10:56:25,620 - Epoch [5/300], Validation Loss: 1.0128
+                         Recall: 0.0000, Precision: 0.0000, F1 Score: 0.0000, Accuracy: 0.4983
+2023-11-04 10:56:33,923 - Epoch [6/300], Training Loss: 0.2503
+2023-11-04 10:56:35,786 - Epoch [6/300], Validation Loss: 0.8245
+                         Recall: 0.9967, Precision: 0.6881, F1 Score: 0.8141, Accuracy: 0.7717
+2023-11-04 10:56:44,245 - Epoch [7/300], Training Loss: 0.1852
+2023-11-04 10:56:46,269 - Epoch [7/300], Validation Loss: 0.2792
+                         Recall: 0.9834, Precision: 0.8506, F1 Score: 0.9122, Accuracy: 0.9050
+2023-11-04 10:56:54,998 - Epoch [8/300], Training Loss: 0.1128
+2023-11-04 10:56:56,870 - Epoch [8/300], Validation Loss: 0.1578
+                         Recall: 0.9568, Precision: 0.9351, F1 Score: 0.9458, Accuracy: 0.9450
+2023-11-04 10:57:05,512 - Epoch [9/300], Training Loss: 0.1052
+2023-11-04 10:57:07,323 - Epoch [9/300], Validation Loss: 0.1881
+                         Recall: 0.8937, Precision: 0.9746, F1 Score: 0.9324, Accuracy: 0.9350
+2023-11-04 10:57:15,420 - Epoch [10/300], Training Loss: 0.0914
+2023-11-04 10:57:17,317 - Epoch [10/300], Validation Loss: 0.1854
+                         Recall: 0.9169, Precision: 0.9822, F1 Score: 0.9485, Accuracy: 0.9500
+2023-11-04 10:57:25,548 - Epoch [11/300], Training Loss: 0.0802
+2023-11-04 10:57:27,472 - Epoch [11/300], Validation Loss: 0.1164
+                         Recall: 0.9601, Precision: 0.9797, F1 Score: 0.9698, Accuracy: 0.9700
+2023-11-04 10:57:36,153 - Epoch [12/300], Training Loss: 0.0527
+2023-11-04 10:57:37,971 - Epoch [12/300], Validation Loss: 0.0824
+                         Recall: 0.9767, Precision: 0.9767, F1 Score: 0.9767, Accuracy: 0.9767
+2023-11-04 10:57:46,753 - Epoch [13/300], Training Loss: 0.0422
+2023-11-04 10:57:48,652 - Epoch [13/300], Validation Loss: 0.2534
+                         Recall: 0.8605, Precision: 0.9885, F1 Score: 0.9201, Accuracy: 0.9250
+2023-11-04 10:57:56,763 - Epoch [14/300], Training Loss: 0.0339
+2023-11-04 10:57:58,662 - Epoch [14/300], Validation Loss: 0.1201
+                         Recall: 0.9336, Precision: 0.9965, F1 Score: 0.9640, Accuracy: 0.9650
+2023-11-04 10:58:06,823 - Epoch [15/300], Training Loss: 0.0397
+2023-11-04 10:58:08,712 - Epoch [15/300], Validation Loss: 0.3750
+                         Recall: 0.8306, Precision: 0.9921, F1 Score: 0.9042, Accuracy: 0.9117
+2023-11-04 10:58:16,818 - Epoch [16/300], Training Loss: 0.0392
+2023-11-04 10:58:18,732 - Epoch [16/300], Validation Loss: 0.1109
+                         Recall: 0.9867, Precision: 0.9706, F1 Score: 0.9786, Accuracy: 0.9783
+2023-11-04 10:58:27,051 - Epoch [17/300], Training Loss: 0.0180
+2023-11-04 10:58:28,911 - Epoch [17/300], Validation Loss: 0.1524
+                         Recall: 0.9834, Precision: 0.9487, F1 Score: 0.9657, Accuracy: 0.9650
+2023-11-04 10:58:36,991 - Epoch [18/300], Training Loss: 0.0304
+2023-11-04 10:58:38,861 - Epoch [18/300], Validation Loss: 0.1006
+                         Recall: 0.9734, Precision: 0.9832, F1 Score: 0.9783, Accuracy: 0.9783
+2023-11-04 10:58:47,289 - Epoch [19/300], Training Loss: 0.0295
+2023-11-04 10:58:49,134 - Epoch [19/300], Validation Loss: 0.1255
+                         Recall: 0.9468, Precision: 0.9896, F1 Score: 0.9677, Accuracy: 0.9683
+2023-11-04 10:58:57,202 - Epoch [20/300], Training Loss: 0.0238
+2023-11-04 10:58:59,045 - Epoch [20/300], Validation Loss: 0.0779
+                         Recall: 0.9568, Precision: 0.9931, F1 Score: 0.9746, Accuracy: 0.9750
+2023-11-04 10:59:07,508 - Epoch [21/300], Training Loss: 0.0213
+2023-11-04 10:59:09,333 - Epoch [21/300], Validation Loss: 0.1015
+                         Recall: 0.9834, Precision: 0.9673, F1 Score: 0.9753, Accuracy: 0.9750
+2023-11-04 10:59:17,443 - Epoch [22/300], Training Loss: 0.0082
+2023-11-04 10:59:19,312 - Epoch [22/300], Validation Loss: 0.0809
+                         Recall: 0.9801, Precision: 0.9866, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 10:59:27,343 - Epoch [23/300], Training Loss: 0.0053
+2023-11-04 10:59:29,184 - Epoch [23/300], Validation Loss: 0.0796
+                         Recall: 0.9900, Precision: 0.9770, F1 Score: 0.9835, Accuracy: 0.9833
+2023-11-04 10:59:37,252 - Epoch [24/300], Training Loss: 0.0100
+2023-11-04 10:59:39,142 - Epoch [24/300], Validation Loss: 0.1138
+                         Recall: 0.9801, Precision: 0.9768, F1 Score: 0.9784, Accuracy: 0.9783
+2023-11-04 10:59:47,438 - Epoch [25/300], Training Loss: 0.0189
+2023-11-04 10:59:49,237 - Epoch [25/300], Validation Loss: 0.0938
+                         Recall: 0.9668, Precision: 0.9864, F1 Score: 0.9765, Accuracy: 0.9767
+2023-11-04 10:59:57,169 - Epoch [26/300], Training Loss: 0.0346
+2023-11-04 10:59:59,109 - Epoch [26/300], Validation Loss: 0.0856
+                         Recall: 0.9767, Precision: 0.9735, F1 Score: 0.9751, Accuracy: 0.9750
+2023-11-04 11:00:07,122 - Epoch [27/300], Training Loss: 0.0079
+2023-11-04 11:00:09,049 - Epoch [27/300], Validation Loss: 0.0841
+                         Recall: 0.9801, Precision: 1.0000, F1 Score: 0.9899, Accuracy: 0.9900
+2023-11-04 11:00:17,212 - Epoch [28/300], Training Loss: 0.0049
+2023-11-04 11:00:19,101 - Epoch [28/300], Validation Loss: 0.0946
+                         Recall: 0.9801, Precision: 0.9736, F1 Score: 0.9768, Accuracy: 0.9767
+2023-11-04 11:00:27,202 - Epoch [29/300], Training Loss: 0.0150
+2023-11-04 11:00:29,078 - Epoch [29/300], Validation Loss: 0.1230
+                         Recall: 0.9834, Precision: 0.9769, F1 Score: 0.9801, Accuracy: 0.9800
+2023-11-04 11:00:37,173 - Epoch [30/300], Training Loss: 0.0230
+2023-11-04 11:00:39,160 - Epoch [30/300], Validation Loss: 0.1176
+                         Recall: 0.9834, Precision: 0.9610, F1 Score: 0.9721, Accuracy: 0.9717
+2023-11-04 11:00:47,645 - Epoch [31/300], Training Loss: 0.0441
+2023-11-04 11:00:49,517 - Epoch [31/300], Validation Loss: 0.0989
+                         Recall: 0.9734, Precision: 0.9799, F1 Score: 0.9767, Accuracy: 0.9767
+2023-11-04 11:00:57,679 - Epoch [32/300], Training Loss: 0.0100
+2023-11-04 11:00:59,529 - Epoch [32/300], Validation Loss: 0.0932
+                         Recall: 0.9734, Precision: 0.9832, F1 Score: 0.9783, Accuracy: 0.9783
+2023-11-04 11:01:07,626 - Epoch [33/300], Training Loss: 0.0070
+2023-11-04 11:01:09,517 - Epoch [33/300], Validation Loss: 0.1119
+                         Recall: 0.9834, Precision: 0.9769, F1 Score: 0.9801, Accuracy: 0.9800
+2023-11-04 11:01:17,490 - Epoch [34/300], Training Loss: 0.0020
+2023-11-04 11:01:19,295 - Epoch [34/300], Validation Loss: 0.1055
+                         Recall: 0.9834, Precision: 0.9801, F1 Score: 0.9818, Accuracy: 0.9817
+2023-11-04 11:01:27,136 - Epoch [35/300], Training Loss: 0.0054
+2023-11-04 11:01:29,033 - Epoch [35/300], Validation Loss: 0.1508
+                         Recall: 0.9834, Precision: 0.9518, F1 Score: 0.9673, Accuracy: 0.9667
+2023-11-04 11:01:36,986 - Epoch [36/300], Training Loss: 0.0277
+2023-11-04 11:01:38,833 - Epoch [36/300], Validation Loss: 0.1077
+                         Recall: 0.9568, Precision: 0.9863, F1 Score: 0.9713, Accuracy: 0.9717
+2023-11-04 11:01:47,448 - Epoch [37/300], Training Loss: 0.0356
+2023-11-04 11:01:49,337 - Epoch [37/300], Validation Loss: 0.0910
+                         Recall: 0.9801, Precision: 0.9866, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:01:57,361 - Epoch [38/300], Training Loss: 0.0052
+2023-11-04 11:01:59,253 - Epoch [38/300], Validation Loss: 0.1307
+                         Recall: 0.9734, Precision: 0.9734, F1 Score: 0.9734, Accuracy: 0.9733
+2023-11-04 11:02:07,254 - Epoch [39/300], Training Loss: 0.0078
+2023-11-04 11:02:09,089 - Epoch [39/300], Validation Loss: 0.0920
+                         Recall: 0.9767, Precision: 0.9866, F1 Score: 0.9816, Accuracy: 0.9817
+2023-11-04 11:02:17,245 - Epoch [40/300], Training Loss: 0.0035
+2023-11-04 11:02:19,130 - Epoch [40/300], Validation Loss: 0.0718
+                         Recall: 0.9801, Precision: 0.9899, F1 Score: 0.9850, Accuracy: 0.9850
+2023-11-04 11:02:27,605 - Epoch [41/300], Training Loss: 0.0226
+2023-11-04 11:02:29,487 - Epoch [41/300], Validation Loss: 0.1106
+                         Recall: 0.9568, Precision: 0.9829, F1 Score: 0.9697, Accuracy: 0.9700
+2023-11-04 11:02:37,492 - Epoch [42/300], Training Loss: 0.0125
+2023-11-04 11:02:39,486 - Epoch [42/300], Validation Loss: 0.1000
+                         Recall: 0.9834, Precision: 0.9900, F1 Score: 0.9867, Accuracy: 0.9867
+2023-11-04 11:02:48,143 - Epoch [43/300], Training Loss: 0.0047
+2023-11-04 11:02:49,996 - Epoch [43/300], Validation Loss: 0.1152
+                         Recall: 0.9834, Precision: 0.9900, F1 Score: 0.9867, Accuracy: 0.9867
+2023-11-04 11:02:58,065 - Epoch [44/300], Training Loss: 0.0170
+2023-11-04 11:03:00,043 - Epoch [44/300], Validation Loss: 0.1305
+                         Recall: 0.9701, Precision: 0.9799, F1 Score: 0.9750, Accuracy: 0.9750
+2023-11-04 11:03:08,215 - Epoch [45/300], Training Loss: 0.0135
+2023-11-04 11:03:10,094 - Epoch [45/300], Validation Loss: 0.1159
+                         Recall: 0.9535, Precision: 0.9965, F1 Score: 0.9745, Accuracy: 0.9750
+2023-11-04 11:03:18,281 - Epoch [46/300], Training Loss: 0.0129
+2023-11-04 11:03:20,155 - Epoch [46/300], Validation Loss: 0.0888
+                         Recall: 0.9767, Precision: 0.9866, F1 Score: 0.9816, Accuracy: 0.9817
+2023-11-04 11:03:28,169 - Epoch [47/300], Training Loss: 0.0074
+2023-11-04 11:03:30,081 - Epoch [47/300], Validation Loss: 0.0737
+                         Recall: 0.9834, Precision: 0.9834, F1 Score: 0.9834, Accuracy: 0.9833
+2023-11-04 11:03:38,184 - Epoch [48/300], Training Loss: 0.0120
+2023-11-04 11:03:40,169 - Epoch [48/300], Validation Loss: 0.1078
+                         Recall: 0.9867, Precision: 0.9770, F1 Score: 0.9818, Accuracy: 0.9817
+2023-11-04 11:03:48,718 - Epoch [49/300], Training Loss: 0.0028
+2023-11-04 11:03:50,666 - Epoch [49/300], Validation Loss: 0.1172
+                         Recall: 0.9701, Precision: 0.9865, F1 Score: 0.9782, Accuracy: 0.9783
+2023-11-04 11:03:58,819 - Epoch [50/300], Training Loss: 0.0035
+2023-11-04 11:04:00,686 - Epoch [50/300], Validation Loss: 0.1394
+                         Recall: 0.9801, Precision: 0.9866, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:04:08,753 - Epoch [51/300], Training Loss: 0.0218
+2023-11-04 11:04:10,634 - Epoch [51/300], Validation Loss: 0.2489
+                         Recall: 0.9402, Precision: 0.9826, F1 Score: 0.9610, Accuracy: 0.9617
+2023-11-04 11:04:18,707 - Epoch [52/300], Training Loss: 0.0566
+2023-11-04 11:04:20,608 - Epoch [52/300], Validation Loss: 0.1785
+                         Recall: 0.9468, Precision: 0.9896, F1 Score: 0.9677, Accuracy: 0.9683
+2023-11-04 11:04:28,533 - Epoch [53/300], Training Loss: 0.0158
+2023-11-04 11:04:30,355 - Epoch [53/300], Validation Loss: 0.1374
+                         Recall: 0.9867, Precision: 0.9674, F1 Score: 0.9770, Accuracy: 0.9767
+2023-11-04 11:04:38,288 - Epoch [54/300], Training Loss: 0.0032
+2023-11-04 11:04:40,169 - Epoch [54/300], Validation Loss: 0.1698
+                         Recall: 0.9801, Precision: 0.9768, F1 Score: 0.9784, Accuracy: 0.9783
+2023-11-04 11:04:48,745 - Epoch [55/300], Training Loss: 0.0031
+2023-11-04 11:04:50,618 - Epoch [55/300], Validation Loss: 0.1221
+                         Recall: 0.9767, Precision: 0.9833, F1 Score: 0.9800, Accuracy: 0.9800
+2023-11-04 11:04:58,752 - Epoch [56/300], Training Loss: 0.0008
+2023-11-04 11:05:00,584 - Epoch [56/300], Validation Loss: 0.1009
+                         Recall: 0.9834, Precision: 0.9834, F1 Score: 0.9834, Accuracy: 0.9833
+2023-11-04 11:05:08,640 - Epoch [57/300], Training Loss: 0.0006
+2023-11-04 11:05:10,495 - Epoch [57/300], Validation Loss: 0.1076
+                         Recall: 0.9834, Precision: 0.9867, F1 Score: 0.9850, Accuracy: 0.9850
+2023-11-04 11:05:18,346 - Epoch [58/300], Training Loss: 0.0001
+2023-11-04 11:05:20,146 - Epoch [58/300], Validation Loss: 0.1051
+                         Recall: 0.9801, Precision: 0.9866, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:05:27,967 - Epoch [59/300], Training Loss: 0.0002
+2023-11-04 11:05:29,880 - Epoch [59/300], Validation Loss: 0.1330
+                         Recall: 0.9834, Precision: 0.9900, F1 Score: 0.9867, Accuracy: 0.9867
+2023-11-04 11:05:37,779 - Epoch [60/300], Training Loss: 0.0003
+2023-11-04 11:05:39,616 - Epoch [60/300], Validation Loss: 0.1151
+                         Recall: 0.9834, Precision: 0.9834, F1 Score: 0.9834, Accuracy: 0.9833
+2023-11-04 11:05:48,216 - Epoch [61/300], Training Loss: 0.0000
+2023-11-04 11:05:50,149 - Epoch [61/300], Validation Loss: 0.1308
+                         Recall: 0.9801, Precision: 0.9866, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:05:58,123 - Epoch [62/300], Training Loss: 0.0001
+2023-11-04 11:05:59,967 - Epoch [62/300], Validation Loss: 0.1210
+                         Recall: 0.9834, Precision: 0.9900, F1 Score: 0.9867, Accuracy: 0.9867
+2023-11-04 11:06:07,816 - Epoch [63/300], Training Loss: 0.0001
+2023-11-04 11:06:09,641 - Epoch [63/300], Validation Loss: 0.1277
+                         Recall: 0.9834, Precision: 0.9900, F1 Score: 0.9867, Accuracy: 0.9867
+2023-11-04 11:06:17,739 - Epoch [64/300], Training Loss: 0.0000
+2023-11-04 11:06:19,665 - Epoch [64/300], Validation Loss: 0.1453
+                         Recall: 0.9834, Precision: 0.9801, F1 Score: 0.9818, Accuracy: 0.9817
+2023-11-04 11:06:27,758 - Epoch [65/300], Training Loss: 0.0003
+2023-11-04 11:06:29,599 - Epoch [65/300], Validation Loss: 0.1234
+                         Recall: 0.9801, Precision: 0.9899, F1 Score: 0.9850, Accuracy: 0.9850
+2023-11-04 11:06:37,658 - Epoch [66/300], Training Loss: 0.0000
+2023-11-04 11:06:39,507 - Epoch [66/300], Validation Loss: 0.1209
+                         Recall: 0.9801, Precision: 0.9933, F1 Score: 0.9866, Accuracy: 0.9867
+2023-11-04 11:06:48,004 - Epoch [67/300], Training Loss: 0.0001
+2023-11-04 11:06:49,851 - Epoch [67/300], Validation Loss: 0.1132
+                         Recall: 0.9867, Precision: 0.9900, F1 Score: 0.9884, Accuracy: 0.9883
+2023-11-04 11:06:58,087 - Epoch [68/300], Training Loss: 0.0000
+2023-11-04 11:06:59,959 - Epoch [68/300], Validation Loss: 0.1204
+                         Recall: 0.9867, Precision: 0.9900, F1 Score: 0.9884, Accuracy: 0.9883
+2023-11-04 11:07:08,009 - Epoch [69/300], Training Loss: 0.0238
+2023-11-04 11:07:09,881 - Epoch [69/300], Validation Loss: 0.7623
+                         Recall: 0.9934, Precision: 0.7608, F1 Score: 0.8617, Accuracy: 0.8400
+2023-11-04 11:07:17,924 - Epoch [70/300], Training Loss: 0.1329
+2023-11-04 11:07:19,761 - Epoch [70/300], Validation Loss: 0.1252
+                         Recall: 0.9767, Precision: 0.9703, F1 Score: 0.9735, Accuracy: 0.9733
+2023-11-04 11:07:27,945 - Epoch [71/300], Training Loss: 0.0386
+2023-11-04 11:07:29,839 - Epoch [71/300], Validation Loss: 0.0727
+                         Recall: 0.9834, Precision: 0.9834, F1 Score: 0.9834, Accuracy: 0.9833
+2023-11-04 11:07:37,841 - Epoch [72/300], Training Loss: 0.0027
+2023-11-04 11:07:39,637 - Epoch [72/300], Validation Loss: 0.1398
+                         Recall: 0.9801, Precision: 0.9833, F1 Score: 0.9817, Accuracy: 0.9817
+2023-11-04 11:07:47,910 - Epoch [73/300], Training Loss: 0.0063
+2023-11-04 11:07:49,779 - Epoch [73/300], Validation Loss: 0.1471
+                         Recall: 0.9900, Precision: 0.9675, F1 Score: 0.9787, Accuracy: 0.9783
+2023-11-04 11:07:57,867 - Epoch [74/300], Training Loss: 0.0046
+2023-11-04 11:07:59,742 - Epoch [74/300], Validation Loss: 0.1129
+                         Recall: 0.9801, Precision: 0.9833, F1 Score: 0.9817, Accuracy: 0.9817
+2023-11-04 11:08:07,948 - Epoch [75/300], Training Loss: 0.0021
+2023-11-04 11:08:09,844 - Epoch [75/300], Validation Loss: 0.0849
+                         Recall: 0.9801, Precision: 0.9866, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:08:18,258 - Epoch [76/300], Training Loss: 0.0006
+2023-11-04 11:08:20,134 - Epoch [76/300], Validation Loss: 0.1884
+                         Recall: 0.9734, Precision: 0.9799, F1 Score: 0.9767, Accuracy: 0.9767
+2023-11-04 11:08:28,179 - Epoch [77/300], Training Loss: 0.0003
+2023-11-04 11:08:30,023 - Epoch [77/300], Validation Loss: 0.1447
+                         Recall: 0.9801, Precision: 0.9768, F1 Score: 0.9784, Accuracy: 0.9783
+2023-11-04 11:08:38,044 - Epoch [78/300], Training Loss: 0.0002
+2023-11-04 11:08:40,044 - Epoch [78/300], Validation Loss: 0.1337
+                         Recall: 0.9834, Precision: 0.9834, F1 Score: 0.9834, Accuracy: 0.9833
+2023-11-04 11:08:48,476 - Epoch [79/300], Training Loss: 0.0001
+2023-11-04 11:08:50,384 - Epoch [79/300], Validation Loss: 0.1369
+                         Recall: 0.9834, Precision: 0.9801, F1 Score: 0.9818, Accuracy: 0.9817
+2023-11-04 11:08:58,387 - Epoch [80/300], Training Loss: 0.0000
+2023-11-04 11:09:00,187 - Epoch [80/300], Validation Loss: 0.1685
+                         Recall: 0.9801, Precision: 0.9768, F1 Score: 0.9784, Accuracy: 0.9783
+2023-11-04 11:09:08,311 - Epoch [81/300], Training Loss: 0.0001
+2023-11-04 11:09:10,136 - Epoch [81/300], Validation Loss: 0.1603
+                         Recall: 0.9767, Precision: 0.9866, F1 Score: 0.9816, Accuracy: 0.9817
+2023-11-04 11:09:17,966 - Epoch [82/300], Training Loss: 0.0000
+2023-11-04 11:09:19,829 - Epoch [82/300], Validation Loss: 0.1326
+                         Recall: 0.9801, Precision: 0.9801, F1 Score: 0.9801, Accuracy: 0.9800
+2023-11-04 11:09:27,857 - Epoch [83/300], Training Loss: 0.0000
+2023-11-04 11:09:29,696 - Epoch [83/300], Validation Loss: 0.1334
+                         Recall: 0.9834, Precision: 0.9801, F1 Score: 0.9818, Accuracy: 0.9817
+2023-11-04 11:09:37,726 - Epoch [84/300], Training Loss: 0.0000
+2023-11-04 11:09:39,592 - Epoch [84/300], Validation Loss: 0.1391
+                         Recall: 0.9834, Precision: 0.9801, F1 Score: 0.9818, Accuracy: 0.9817
+2023-11-04 11:09:48,056 - Epoch [85/300], Training Loss: 0.0000
+2023-11-04 11:09:49,893 - Epoch [85/300], Validation Loss: 0.1317
+                         Recall: 0.9834, Precision: 0.9867, F1 Score: 0.9850, Accuracy: 0.9850
+2023-11-04 11:09:58,013 - Epoch [86/300], Training Loss: 0.0000
+2023-11-04 11:09:59,894 - Epoch [86/300], Validation Loss: 0.1789
+                         Recall: 0.9734, Precision: 0.9832, F1 Score: 0.9783, Accuracy: 0.9783
+2023-11-04 11:10:08,020 - Epoch [87/300], Training Loss: 0.0000
+2023-11-04 11:10:09,902 - Epoch [87/300], Validation Loss: 0.1010
+                         Recall: 0.9867, Precision: 0.9900, F1 Score: 0.9884, Accuracy: 0.9883
+2023-11-04 11:10:18,199 - Epoch [88/300], Training Loss: 0.0001
+2023-11-04 11:10:20,070 - Epoch [88/300], Validation Loss: 0.1284
+                         Recall: 0.9900, Precision: 0.9803, F1 Score: 0.9851, Accuracy: 0.9850
+2023-11-04 11:10:28,054 - Epoch [89/300], Training Loss: 0.0002
+2023-11-04 11:10:29,932 - Epoch [89/300], Validation Loss: 0.1386
+                         Recall: 0.9701, Precision: 0.9865, F1 Score: 0.9782, Accuracy: 0.9783
+2023-11-04 11:10:37,956 - Epoch [90/300], Training Loss: 0.0001
+2023-11-04 11:10:39,887 - Epoch [90/300], Validation Loss: 0.1406
+                         Recall: 0.9767, Precision: 0.9833, F1 Score: 0.9800, Accuracy: 0.9800
+2023-11-04 11:10:48,151 - Epoch [91/300], Training Loss: 0.0161
+2023-11-04 11:10:50,063 - Epoch [91/300], Validation Loss: 0.1739
+                         Recall: 0.9468, Precision: 0.9661, F1 Score: 0.9564, Accuracy: 0.9567
+2023-11-04 11:10:58,286 - Epoch [92/300], Training Loss: 0.0718
+2023-11-04 11:11:00,130 - Epoch [92/300], Validation Loss: 0.7666
+                         Recall: 0.9934, Precision: 0.7667, F1 Score: 0.8654, Accuracy: 0.8450
+2023-11-04 11:11:08,202 - Epoch [93/300], Training Loss: 0.0240
+2023-11-04 11:11:10,032 - Epoch [93/300], Validation Loss: 0.0933
+                         Recall: 0.9767, Precision: 0.9932, F1 Score: 0.9849, Accuracy: 0.9850
+2023-11-04 11:11:17,989 - Epoch [94/300], Training Loss: 0.0062
+2023-11-04 11:11:19,858 - Epoch [94/300], Validation Loss: 0.1293
+                         Recall: 0.9834, Precision: 0.9801, F1 Score: 0.9818, Accuracy: 0.9817
+2023-11-04 11:11:28,084 - Epoch [95/300], Training Loss: 0.0027
+2023-11-04 11:11:29,927 - Epoch [95/300], Validation Loss: 0.1342
+                         Recall: 0.9801, Precision: 0.9768, F1 Score: 0.9784, Accuracy: 0.9783
+2023-11-04 11:11:38,134 - Epoch [96/300], Training Loss: 0.0003
+2023-11-04 11:11:40,005 - Epoch [96/300], Validation Loss: 0.1128
+                         Recall: 0.9834, Precision: 0.9834, F1 Score: 0.9834, Accuracy: 0.9833
+2023-11-04 11:11:48,407 - Epoch [97/300], Training Loss: 0.0003
+2023-11-04 11:11:50,268 - Epoch [97/300], Validation Loss: 0.1208
+                         Recall: 0.9734, Precision: 0.9865, F1 Score: 0.9799, Accuracy: 0.9800
+2023-11-04 11:11:58,479 - Epoch [98/300], Training Loss: 0.0002
+2023-11-04 11:12:00,385 - Epoch [98/300], Validation Loss: 0.0965
+                         Recall: 0.9767, Precision: 0.9899, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:12:08,495 - Epoch [99/300], Training Loss: 0.0024
+2023-11-04 11:12:10,380 - Epoch [99/300], Validation Loss: 0.1591
+                         Recall: 0.9767, Precision: 0.9932, F1 Score: 0.9849, Accuracy: 0.9850
+2023-11-04 11:12:18,590 - Epoch [100/300], Training Loss: 0.0540
+2023-11-04 11:12:20,383 - Epoch [100/300], Validation Loss: 0.1405
+                         Recall: 0.9535, Precision: 0.9897, F1 Score: 0.9712, Accuracy: 0.9717
+2023-11-04 11:12:28,391 - Epoch [101/300], Training Loss: 0.0032
+2023-11-04 11:12:30,274 - Epoch [101/300], Validation Loss: 0.0915
+                         Recall: 0.9734, Precision: 0.9899, F1 Score: 0.9816, Accuracy: 0.9817
+2023-11-04 11:12:38,486 - Epoch [102/300], Training Loss: 0.0128
+2023-11-04 11:12:40,288 - Epoch [102/300], Validation Loss: 0.1151
+                         Recall: 0.9801, Precision: 0.9672, F1 Score: 0.9736, Accuracy: 0.9733
+2023-11-04 11:12:48,497 - Epoch [103/300], Training Loss: 0.0150
+2023-11-04 11:12:50,298 - Epoch [103/300], Validation Loss: 0.0920
+                         Recall: 0.9801, Precision: 0.9833, F1 Score: 0.9817, Accuracy: 0.9817
+2023-11-04 11:12:58,748 - Epoch [104/300], Training Loss: 0.0016
+2023-11-04 11:13:00,616 - Epoch [104/300], Validation Loss: 0.0748
+                         Recall: 0.9767, Precision: 0.9899, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:13:08,805 - Epoch [105/300], Training Loss: 0.0006
+2023-11-04 11:13:10,725 - Epoch [105/300], Validation Loss: 0.1065
+                         Recall: 0.9801, Precision: 0.9833, F1 Score: 0.9817, Accuracy: 0.9817
+2023-11-04 11:13:18,903 - Epoch [106/300], Training Loss: 0.0131
+2023-11-04 11:13:20,766 - Epoch [106/300], Validation Loss: 0.0998
+                         Recall: 0.9801, Precision: 0.9899, F1 Score: 0.9850, Accuracy: 0.9850
+2023-11-04 11:13:29,004 - Epoch [107/300], Training Loss: 0.0007
+2023-11-04 11:13:30,971 - Epoch [107/300], Validation Loss: 0.1260
+                         Recall: 0.9701, Precision: 0.9966, F1 Score: 0.9832, Accuracy: 0.9833
+2023-11-04 11:13:38,885 - Epoch [108/300], Training Loss: 0.0002
+2023-11-04 11:13:40,835 - Epoch [108/300], Validation Loss: 0.1383
+                         Recall: 0.9767, Precision: 0.9833, F1 Score: 0.9800, Accuracy: 0.9800
+2023-11-04 11:13:49,323 - Epoch [109/300], Training Loss: 0.0001
+2023-11-04 11:13:51,144 - Epoch [109/300], Validation Loss: 0.1062
+                         Recall: 0.9834, Precision: 0.9900, F1 Score: 0.9867, Accuracy: 0.9867
+2023-11-04 11:13:59,307 - Epoch [110/300], Training Loss: 0.0001
+2023-11-04 11:14:01,184 - Epoch [110/300], Validation Loss: 0.0951
+                         Recall: 0.9834, Precision: 0.9834, F1 Score: 0.9834, Accuracy: 0.9833
+2023-11-04 11:14:09,378 - Epoch [111/300], Training Loss: 0.0001
+2023-11-04 11:14:11,250 - Epoch [111/300], Validation Loss: 0.1102
+                         Recall: 0.9834, Precision: 0.9867, F1 Score: 0.9850, Accuracy: 0.9850
+2023-11-04 11:14:19,263 - Epoch [112/300], Training Loss: 0.0000
+2023-11-04 11:14:21,215 - Epoch [112/300], Validation Loss: 0.0942
+                         Recall: 0.9801, Precision: 0.9801, F1 Score: 0.9801, Accuracy: 0.9800
+2023-11-04 11:14:29,160 - Epoch [113/300], Training Loss: 0.0000
+2023-11-04 11:14:30,972 - Epoch [113/300], Validation Loss: 0.1108
+                         Recall: 0.9834, Precision: 0.9867, F1 Score: 0.9850, Accuracy: 0.9850
+2023-11-04 11:14:38,816 - Epoch [114/300], Training Loss: 0.0000
+2023-11-04 11:14:40,698 - Epoch [114/300], Validation Loss: 0.1191
+                         Recall: 0.9834, Precision: 0.9801, F1 Score: 0.9818, Accuracy: 0.9817
+2023-11-04 11:14:49,179 - Epoch [115/300], Training Loss: 0.0000
+2023-11-04 11:14:51,015 - Epoch [115/300], Validation Loss: 0.1120
+                         Recall: 0.9834, Precision: 0.9801, F1 Score: 0.9818, Accuracy: 0.9817
+2023-11-04 11:14:59,145 - Epoch [116/300], Training Loss: 0.0000
+2023-11-04 11:15:00,984 - Epoch [116/300], Validation Loss: 0.1294
+                         Recall: 0.9867, Precision: 0.9867, F1 Score: 0.9867, Accuracy: 0.9867
+2023-11-04 11:15:09,196 - Epoch [117/300], Training Loss: 0.0000
+2023-11-04 11:15:11,087 - Epoch [117/300], Validation Loss: 0.1160
+                         Recall: 0.9834, Precision: 0.9801, F1 Score: 0.9818, Accuracy: 0.9817
+2023-11-04 11:15:19,180 - Epoch [118/300], Training Loss: 0.0001
+2023-11-04 11:15:21,028 - Epoch [118/300], Validation Loss: 0.1284
+                         Recall: 0.9801, Precision: 0.9833, F1 Score: 0.9817, Accuracy: 0.9817
+2023-11-04 11:15:29,162 - Epoch [119/300], Training Loss: 0.0000
+2023-11-04 11:15:31,021 - Epoch [119/300], Validation Loss: 0.1386
+                         Recall: 0.9801, Precision: 0.9866, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:15:38,973 - Epoch [120/300], Training Loss: 0.0000
+2023-11-04 11:15:40,820 - Epoch [120/300], Validation Loss: 0.1530
+                         Recall: 0.9801, Precision: 0.9801, F1 Score: 0.9801, Accuracy: 0.9800
+2023-11-04 11:15:49,192 - Epoch [121/300], Training Loss: 0.0000
+2023-11-04 11:15:50,993 - Epoch [121/300], Validation Loss: 0.1284
+                         Recall: 0.9801, Precision: 0.9801, F1 Score: 0.9801, Accuracy: 0.9800
+2023-11-04 11:15:58,943 - Epoch [122/300], Training Loss: 0.0000
+2023-11-04 11:16:00,880 - Epoch [122/300], Validation Loss: 0.1487
+                         Recall: 0.9801, Precision: 0.9866, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:16:09,011 - Epoch [123/300], Training Loss: 0.0004
+2023-11-04 11:16:10,885 - Epoch [123/300], Validation Loss: 0.1387
+                         Recall: 0.9834, Precision: 0.9834, F1 Score: 0.9834, Accuracy: 0.9833
+2023-11-04 11:16:18,888 - Epoch [124/300], Training Loss: 0.0213
+2023-11-04 11:16:20,696 - Epoch [124/300], Validation Loss: 0.2781
+                         Recall: 0.9601, Precision: 0.9175, F1 Score: 0.9383, Accuracy: 0.9367
+2023-11-04 11:16:28,570 - Epoch [125/300], Training Loss: 0.0348
+2023-11-04 11:16:30,372 - Epoch [125/300], Validation Loss: 0.1069
+                         Recall: 0.9867, Precision: 0.9834, F1 Score: 0.9851, Accuracy: 0.9850
+2023-11-04 11:16:38,217 - Epoch [126/300], Training Loss: 0.0104
+2023-11-04 11:16:40,095 - Epoch [126/300], Validation Loss: 0.2633
+                         Recall: 0.9535, Precision: 0.9729, F1 Score: 0.9631, Accuracy: 0.9633
+2023-11-04 11:16:48,605 - Epoch [127/300], Training Loss: 0.0315
+2023-11-04 11:16:50,513 - Epoch [127/300], Validation Loss: 0.1620
+                         Recall: 0.9900, Precision: 0.9521, F1 Score: 0.9707, Accuracy: 0.9700
+2023-11-04 11:16:58,672 - Epoch [128/300], Training Loss: 0.0119
+2023-11-04 11:17:00,622 - Epoch [128/300], Validation Loss: 0.0819
+                         Recall: 0.9834, Precision: 0.9867, F1 Score: 0.9850, Accuracy: 0.9850
+2023-11-04 11:17:08,923 - Epoch [129/300], Training Loss: 0.0005
+2023-11-04 11:17:10,822 - Epoch [129/300], Validation Loss: 0.0920
+                         Recall: 0.9801, Precision: 0.9933, F1 Score: 0.9866, Accuracy: 0.9867
+2023-11-04 11:17:19,043 - Epoch [130/300], Training Loss: 0.0016
+2023-11-04 11:17:20,965 - Epoch [130/300], Validation Loss: 0.1101
+                         Recall: 0.9801, Precision: 0.9833, F1 Score: 0.9817, Accuracy: 0.9817
+2023-11-04 11:17:29,109 - Epoch [131/300], Training Loss: 0.0004
+2023-11-04 11:17:30,998 - Epoch [131/300], Validation Loss: 0.0897
+                         Recall: 0.9867, Precision: 0.9802, F1 Score: 0.9834, Accuracy: 0.9833
+2023-11-04 11:17:39,139 - Epoch [132/300], Training Loss: 0.0000
+2023-11-04 11:17:41,050 - Epoch [132/300], Validation Loss: 0.1205
+                         Recall: 0.9867, Precision: 0.9900, F1 Score: 0.9884, Accuracy: 0.9883
+2023-11-04 11:17:49,493 - Epoch [133/300], Training Loss: 0.0000
+2023-11-04 11:17:51,347 - Epoch [133/300], Validation Loss: 0.0980
+                         Recall: 0.9834, Precision: 0.9900, F1 Score: 0.9867, Accuracy: 0.9867
+2023-11-04 11:17:59,322 - Epoch [134/300], Training Loss: 0.0001
+2023-11-04 11:18:01,233 - Epoch [134/300], Validation Loss: 0.0774
+                         Recall: 0.9900, Precision: 0.9868, F1 Score: 0.9884, Accuracy: 0.9883
+2023-11-04 11:18:09,330 - Epoch [135/300], Training Loss: 0.0001
+2023-11-04 11:18:11,123 - Epoch [135/300], Validation Loss: 0.1195
+                         Recall: 0.9834, Precision: 0.9900, F1 Score: 0.9867, Accuracy: 0.9867
+2023-11-04 11:18:19,372 - Epoch [136/300], Training Loss: 0.0000
+2023-11-04 11:18:21,225 - Epoch [136/300], Validation Loss: 0.0870
+                         Recall: 0.9834, Precision: 0.9900, F1 Score: 0.9867, Accuracy: 0.9867
+2023-11-04 11:18:29,441 - Epoch [137/300], Training Loss: 0.0004
+2023-11-04 11:18:31,314 - Epoch [137/300], Validation Loss: 0.0935
+                         Recall: 0.9801, Precision: 0.9866, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:18:39,364 - Epoch [138/300], Training Loss: 0.0000
+2023-11-04 11:18:41,210 - Epoch [138/300], Validation Loss: 0.1053
+                         Recall: 0.9801, Precision: 0.9866, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:18:49,822 - Epoch [139/300], Training Loss: 0.0000
+2023-11-04 11:18:51,661 - Epoch [139/300], Validation Loss: 0.1244
+                         Recall: 0.9801, Precision: 0.9801, F1 Score: 0.9801, Accuracy: 0.9800
+2023-11-04 11:18:59,927 - Epoch [140/300], Training Loss: 0.0000
+2023-11-04 11:19:01,767 - Epoch [140/300], Validation Loss: 0.1174
+                         Recall: 0.9834, Precision: 0.9801, F1 Score: 0.9818, Accuracy: 0.9817
+2023-11-04 11:19:09,952 - Epoch [141/300], Training Loss: 0.0001
+2023-11-04 11:19:11,815 - Epoch [141/300], Validation Loss: 0.1195
+                         Recall: 0.9801, Precision: 0.9866, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:19:19,806 - Epoch [142/300], Training Loss: 0.0000
+2023-11-04 11:19:21,678 - Epoch [142/300], Validation Loss: 0.1016
+                         Recall: 0.9801, Precision: 0.9866, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:19:29,700 - Epoch [143/300], Training Loss: 0.0000
+2023-11-04 11:19:31,524 - Epoch [143/300], Validation Loss: 0.1396
+                         Recall: 0.9767, Precision: 0.9833, F1 Score: 0.9800, Accuracy: 0.9800
+2023-11-04 11:19:39,635 - Epoch [144/300], Training Loss: 0.0000
+2023-11-04 11:19:41,529 - Epoch [144/300], Validation Loss: 0.1209
+                         Recall: 0.9801, Precision: 0.9866, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:19:49,980 - Epoch [145/300], Training Loss: 0.0000
+2023-11-04 11:19:51,855 - Epoch [145/300], Validation Loss: 0.1072
+                         Recall: 0.9900, Precision: 0.9868, F1 Score: 0.9884, Accuracy: 0.9883
+2023-11-04 11:20:00,220 - Epoch [146/300], Training Loss: 0.0000
+2023-11-04 11:20:02,063 - Epoch [146/300], Validation Loss: 0.1203
+                         Recall: 0.9801, Precision: 0.9866, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:20:10,265 - Epoch [147/300], Training Loss: 0.0000
+2023-11-04 11:20:12,106 - Epoch [147/300], Validation Loss: 0.1237
+                         Recall: 0.9801, Precision: 0.9866, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:20:20,122 - Epoch [148/300], Training Loss: 0.0000
+2023-11-04 11:20:22,005 - Epoch [148/300], Validation Loss: 0.1236
+                         Recall: 0.9867, Precision: 0.9834, F1 Score: 0.9851, Accuracy: 0.9850
+2023-11-04 11:20:30,232 - Epoch [149/300], Training Loss: 0.0000
+2023-11-04 11:20:32,099 - Epoch [149/300], Validation Loss: 0.1286
+                         Recall: 0.9834, Precision: 0.9900, F1 Score: 0.9867, Accuracy: 0.9867
+2023-11-04 11:20:40,242 - Epoch [150/300], Training Loss: 0.0000
+2023-11-04 11:20:42,126 - Epoch [150/300], Validation Loss: 0.1085
+                         Recall: 0.9834, Precision: 0.9900, F1 Score: 0.9867, Accuracy: 0.9867
+2023-11-04 11:20:50,579 - Epoch [151/300], Training Loss: 0.0000
+2023-11-04 11:20:52,419 - Epoch [151/300], Validation Loss: 0.1236
+                         Recall: 0.9801, Precision: 0.9866, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:21:00,477 - Epoch [152/300], Training Loss: 0.0000
+2023-11-04 11:21:02,278 - Epoch [152/300], Validation Loss: 0.1356
+                         Recall: 0.9767, Precision: 0.9866, F1 Score: 0.9816, Accuracy: 0.9817
+2023-11-04 11:21:10,408 - Epoch [153/300], Training Loss: 0.0000
+2023-11-04 11:21:12,297 - Epoch [153/300], Validation Loss: 0.1250
+                         Recall: 0.9834, Precision: 0.9834, F1 Score: 0.9834, Accuracy: 0.9833
+2023-11-04 11:21:20,334 - Epoch [154/300], Training Loss: 0.0000
+2023-11-04 11:21:22,176 - Epoch [154/300], Validation Loss: 0.1363
+                         Recall: 0.9801, Precision: 0.9866, F1 Score: 0.9833, Accuracy: 0.9833
+2023-11-04 11:21:30,171 - Epoch [155/300], Training Loss: 0.0000
+2023-11-04 11:21:32,086 - Epoch [155/300], Validation Loss: 0.1262
+                         Recall: 0.9900, Precision: 0.9835, F1 Score: 0.9868, Accuracy: 0.9867
+2023-11-04 11:21:40,212 - Epoch [156/300], Training Loss: 0.0000
+2023-11-04 11:21:42,162 - Epoch [156/300], Validation Loss: 0.1440
+                         Recall: 0.9801, Precision: 0.9801, F1 Score: 0.9801, Accuracy: 0.9800
+2023-11-04 11:21:42,162 - Early stopping triggered.
