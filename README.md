@@ -1,3 +1,6 @@
+- Prediction of Newly Confirmed Cases of Covid19 <br> https://github.com/mattxu98/Prediction-of-Newly-Confirmed-Cases-of-Covid19
+- Marks Breakdown <br> https://github.com/mattxu98/GPA/blob/main/XU_LONGPENG_Marks_Breakdown.pdf
+
 ## Image Classification Neural Networks for Horizontal Brain MRI
 - Built convolutional neural networks for accurate tumor recognition on RTX4070. Conducted dataset selection and image augmentation
 - Trained ConvNet/DenseNet-121/ResNet-18 with early stopping, adjusted 4 types of parameters based on performances
